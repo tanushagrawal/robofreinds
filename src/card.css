@@ -1,0 +1,26 @@
+.card{
+    text-align: center;
+    background-color:#397fbd;
+    width: 200px;
+    border-radius: 20px;
+    
+
+}
+h2{
+    margin-bottom: 2px;
+}
+h6{
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.card:hover{
+    width: 220px;
+    height: 350px;
+
+
+    
+}
